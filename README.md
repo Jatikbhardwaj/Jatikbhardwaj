@@ -13,8 +13,6 @@
 
 - Practicing clean code ✨.
 
-- Currently learning MERN stack.
-
 - Code till I die.
 
 ### Languages & Frameworks:
