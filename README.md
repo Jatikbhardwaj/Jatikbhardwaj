@@ -7,7 +7,6 @@
 
 <!--**Jatikbhardwaj/Jatikbhardwaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- I'm an Aspiring Software developer looking out for new opportunities  🗻.
 
 - I ❤️ building new things and helping others 🤝 . Learning something new everyday 🌞.
 
