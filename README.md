@@ -28,14 +28,14 @@ I focus on clean code, cloud-native architectures, and solving real-world proble
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Snowflake" width="26px" src="https://t3.ftcdn.net/jpg/01/85/75/82/360_F_185758274_tyBRRmslE10iCmSF9bRPsaZXgF7QUiLE.jpg"/>
 <img align="left" alt="DBT" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkXHyMiYflQp0nrheDbU1RtVoo2Z_Ei_Sbjw&s" />
-<img align="left" alt="Apache Airflow" width="26px" src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" />
+<img align="left" alt="Apache Airflow" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFzCIuPsPokbP-V0RFFgCRJqcve5gpjJmTtg&s" />
 <img align="left" alt="Apache Kafka" width="26px" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" />
-<img align="left" alt="Debezium" width="26px" src="https://debezium.io/images/debezium-logo.svg" />
+<img align="left" alt="Debezium" width="26px" src="https://avatars.githubusercontent.com/u/11964329?s=280&v=4" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub Actions" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
-<img align="left" alt="Keycloak" width="26px" src="https://www.vectorlogo.zone/logos/keycloak/keycloak-icon.svg" />
+<img align="left" alt="Keycloak" width="26px" src="https://miro.medium.com/1*9lMClzHqjM35tKGYXrcouA.png" />
 <img align="left" alt="RabbitMQ" width="26px" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" />
 </p>
 
