@@ -26,8 +26,8 @@ I focus on clean code, cloud-native architectures, and solving real-world proble
 <img align="left" alt="FastAPI" width="26px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Snowflake" width="26px" src="https://png.pngtree.com/element_our/20190528/ourmid/pngtree-cartoon-snowflake-icon-download-image_1147140.jpg"/>
-<img align="left" alt="DBT" width="26px" src="https://cdn.worldvectorlogo.com/logos/dbt-labs.svg" />
+<img align="left" alt="Snowflake" width="26px" src="https://t3.ftcdn.net/jpg/01/85/75/82/360_F_185758274_tyBRRmslE10iCmSF9bRPsaZXgF7QUiLE.jpg"/>
+<img align="left" alt="DBT" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkXHyMiYflQp0nrheDbU1RtVoo2Z_Ei_Sbjw&s" />
 <img align="left" alt="Apache Airflow" width="26px" src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" />
 <img align="left" alt="Apache Kafka" width="26px" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" />
 <img align="left" alt="Debezium" width="26px" src="https://debezium.io/images/debezium-logo.svg" />
