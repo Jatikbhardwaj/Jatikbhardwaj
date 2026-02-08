@@ -34,7 +34,6 @@ I focus on clean code, cloud-native architectures, and solving real-world proble
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub Actions" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
 <img align="left" alt="Keycloak" width="26px" src="https://miro.medium.com/1*9lMClzHqjM35tKGYXrcouA.png" />
 <img align="left" alt="RabbitMQ" width="26px" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" />
 </p>
