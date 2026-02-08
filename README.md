@@ -8,11 +8,10 @@
 <!--**Jatikbhardwaj/Jatikbhardwaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
-- I ❤️ building new things and helping others 🤝 . Learning something new everyday 🌞.
-
-- Practicing clean code ✨.
-
-- Code till I die.
+<p align="center">
+I ❤️ building scalable applications and learning new technologies daily 🌞.  
+I focus on clean code, cloud-native architectures, and solving real-world problems.
+</p>
 
 ### Languages & Frameworks:
 
